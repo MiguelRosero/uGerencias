@@ -7266,19 +7266,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Diego\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Combusken\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj",
       "projectName": "Hackaton.App.Persistencia",
-      "projectPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\Combusken\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\Combusken\\uGerencias\\Hackaton.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7289,8 +7289,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj"
+            "C:\\Users\\Asus\\Desktop\\Combusken\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\Combusken\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj"
             }
           }
         }

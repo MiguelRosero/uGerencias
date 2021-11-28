@@ -43,3 +43,12 @@ C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\obj\Debug\netstan
 C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.dll
 C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.pdb
+C:\Users\Asus\Desktop\Combusken\uGerencias\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.deps.json
+C:\Users\Asus\Desktop\Combusken\uGerencias\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.dll
+C:\Users\Asus\Desktop\Combusken\uGerencias\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.pdb
+C:\Users\Asus\Desktop\Combusken\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Combusken\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Combusken\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Combusken\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Combusken\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.dll
+C:\Users\Asus\Desktop\Combusken\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.pdb

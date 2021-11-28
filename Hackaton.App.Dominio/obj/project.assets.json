@@ -280,19 +280,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Diego\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Combusken\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj",
       "projectName": "Hackaton.App.Dominio",
-      "projectPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\Combusken\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\Combusken\\uGerencias\\Hackaton.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
