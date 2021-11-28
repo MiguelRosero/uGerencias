@@ -5,52 +5,58 @@ using System;
  
 namespace Hackaton.App.Persistencia.AppRepositorios
 {
-    public class RepositoriouGerencias
-    
+    public class RepositorioEntidades
     {
-        List<uGerencias> ugerencias;
-        private readonly AppContext _appContext = new AppContext();   
 
-        public IEnumerable<uGerencias> GetAll()
-        {
-            return _appContext.uGerencias;
-        }
+        List<Entidades> entidades;
+        private readonly AppContext _appContext = new AppContext();
 
-        public uGerencias Create(uGerencias newuGerente)
+        public IEnumerable<Entidades> GetAll()
         {
-           var adduGerente = _appContext.uGerencias.Add(newuGerente);
-            _appContext.SaveChanges();
-            return adduGerente.Entity;
-        }
- 
-        public uGerencias GetuGerenteWithId(int id)
-        {
-            return _appContext.uGerencias.Find(id);
+            
+            return _appContext.Entidades;// retorna la informacion que se encuentra en Entidades(base de datos)
         }
         
-
-        public uGerencias Update(uGerencias newuGerente)
+        public Entidades Create(Entidades newEntidad)
         {
-            var ugerente = _appContext.uGerencias.Find(newuGerente.id);
-            if(ugerente != null){
-                ugerente.fecha_novedad= newuGerente.fecha_novedad;
-                ugerente.dias_novedad = newuGerente.dias_novedad;
-                ugerente.texto_explicativo = newuGerente.texto_explicativo;
-                
-                _appContext.SaveChanges();
-            }
-        return ugerente;
+            var addEntidad = _appContext.Entidades.Add(newEntidad);
+            _appContext.SaveChanges();
+            return addEntidad.Entity;
+        }
+        
+        public Entidades GetEntidadWithId(int id)
+        {           
+           return _appContext.Entidades.Find(id); 
         }
 
-       public void Delete(int id)
+        public Entidades Update(Entidades newEntidad)
         {
-        var ugerente = _appContext.uGerencias.Find(id);
-        if (ugerente == null)
+            var entidad = _appContext.Entidades.Find(newEntidad.id);
+            if(entidad != null)
+            {
+                entidad.razon_social = newEntidad.razon_social;
+                entidad.nit = newEntidad.nit;
+                entidad.direccion = newEntidad.direccion;
+                entidad.ciudad = newEntidad.ciudad;
+                entidad.telefono = newEntidad.telefono;
+                entidad.webpage = newEntidad.webpage;
+                entidad.sector = newEntidad.sector;
+                entidad.servicio = newEntidad.servicio;
+                             
+                _appContext.SaveChanges(); //Guarda en base de Datos
+            }
+        return entidad;
+        }
+
+        public void Delete(int id)
+        {
+            
+        var entidad = _appContext.Entidades.Find(id);
+        if (entidad == null)
             return;
-        _appContext.uGerencias.Remove(ugerente);
+        _appContext.Entidades.Remove(entidad);
         _appContext.SaveChanges();
         }
-
 
     }
 }
