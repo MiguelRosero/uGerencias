@@ -15,6 +15,7 @@ namespace Hackaton.App.Frontend.Pages
     {
        
         private readonly RepositoriouGerencias repositoriouGerencias;
+        
         public IEnumerable<uGerencias> uGerencias {get;set;}
         [BindProperty]
         public uGerencias uGerente {get;set;}

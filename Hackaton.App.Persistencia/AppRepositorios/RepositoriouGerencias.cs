@@ -5,32 +5,37 @@ using System;
  
 namespace Hackaton.App.Persistencia.AppRepositorios
 {
-    public class RepositorioMigrantes
+    public class RepositoriouGerencias
+    
     {
+        List<uGerencias> ugerencias;
         private readonly AppContext _appContext = new AppContext();   
 
         public IEnumerable<uGerencias> GetAll()
         {
             return _appContext.uGerencias;
+        }
 
-        }
- 
-        public uGerencias GetuGerenteWithId(int id){
-            return _appContext.uGerencias.Find(id);
-        }
         public uGerencias Create(uGerencias newuGerente)
         {
            var adduGerente = _appContext.uGerencias.Add(newuGerente);
             _appContext.SaveChanges();
             return adduGerente.Entity;
         }
+ 
+        public uGerencias GetuGerenteWithId(int id)
+        {
+            return _appContext.uGerencias.Find(id);
+        }
+        
 
-        public uGerencias Update(uGerencias newuGerente){
+        public uGerencias Update(uGerencias newuGerente)
+        {
             var ugerente = _appContext.uGerencias.Find(newuGerente.id);
             if(ugerente != null){
-                ugerente.nombre = newuGerente.fecha_novedad;
-                ugerente.apellidos = newuGerente.dias_novedad;
-                ugerente.tipo_documento = newuGerente.texto_explicativo;
+                ugerente.fecha_novedad= newuGerente.fecha_novedad;
+                ugerente.dias_novedad = newuGerente.dias_novedad;
+                ugerente.texto_explicativo = newuGerente.texto_explicativo;
                 
                 _appContext.SaveChanges();
             }
@@ -42,7 +47,7 @@ namespace Hackaton.App.Persistencia.AppRepositorios
         var ugerente = _appContext.uGerencias.Find(id);
         if (ugerente == null)
             return;
-        _appContext.uGerentes.Remove(ugerente);
+        _appContext.uGerencias.Remove(ugerente);
         _appContext.SaveChanges();
         }
 

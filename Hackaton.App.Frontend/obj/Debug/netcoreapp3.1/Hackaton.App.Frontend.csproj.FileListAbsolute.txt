@@ -37,3 +37,12 @@ C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\
 C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Hackaton.App.Frontend.csproj.CopyComplete
 C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\uGerencias\Create.cshtml.g.cs
 C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\uGerencias\List.cshtml.g.cs
+C:\Users\Diego\Desktop\Miguel\uGerencias\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Hackaton.App.Frontend.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\Miguel\uGerencias\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Hackaton.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Miguel\uGerencias\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Hackaton.App.Frontend.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Miguel\uGerencias\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Hackaton.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Miguel\uGerencias\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Hackaton.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diego\Desktop\Miguel\uGerencias\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Hackaton.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Diego\Desktop\Miguel\uGerencias\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Hackaton.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Diego\Desktop\Miguel\uGerencias\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Hackaton.App.Frontend.dll
+C:\Users\Diego\Desktop\Miguel\uGerencias\Hackaton.App.Frontend\obj\Debug\netcoreapp3.1\Hackaton.App.Frontend.pdb

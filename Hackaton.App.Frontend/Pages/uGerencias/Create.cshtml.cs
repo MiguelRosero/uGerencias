@@ -15,10 +15,11 @@ namespace Hackaton.App.Frontend.Pages
     {
         private readonly RepositoriouGerencias repositoriouGerencias;
         [BindProperty]
-        public uGerencias uGerente {get;set;}
+        public uGerencias uGerente { get; set; }
+
         public FormuGerenteModel(RepositoriouGerencias repositoriouGerencias)
         {
-            this.repositoriouGerencias=repositoriouGerencias;
+            this.repositoriouGerencias = repositoriouGerencias;
         }
         public void OnGet()
         {

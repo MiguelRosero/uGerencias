@@ -2,7 +2,8 @@ using System;
 //using System.ComponentModel.DataAnnotations;
 namespace Hackaton.App.Dominio
 {
-    public class uGerencias{
+    public class uGerencias
+    {
         public int id {get;set;}
         
         public string fecha_novedad {get;set;}
