@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vLm9z6FVDVNwWvFobSVf4vKoMcSw04Wr0bb1tb/916zXfVUS95XSmvt01A/tOh2E7KTX1pVeDT71IMkExXF1tg==",
+  "dgSpecHash": "1GeSNPF8znNE7/e59BVIsoHJUuR1H5FA1fMKDhBGlhyEOqv/YdIwk3kS2KqU8ObyFlZhQPJF9kUkE0HIcGESEA==",
   "success": true,
-  "projectFilePath": "D:\\uGErenciasUWU\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj",
+  "projectFilePath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

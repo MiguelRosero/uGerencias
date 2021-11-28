@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y3leE2Bw3pKfltdjHj31dfbNkRmaDI7vWM1wEjTaZAeB8luMfIe5FecCQsMdUxs2UsFSaGJ5TVyeV/4R6eZkkQ==",
+  "dgSpecHash": "+BUstOKaVJ0FH72cfOxe3y1qa/Ki+Gzj7G+rdczWcRsbJPyFRvAackIRGA1/QALJeU2i+FvomufNjiPPsj3ppA==",
   "success": true,
-  "projectFilePath": "D:\\uGErenciasUWU\\uGerencias\\Hackaton.App.Frontend\\Hackaton.App.Frontend.csproj",
+  "projectFilePath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Frontend\\Hackaton.App.Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

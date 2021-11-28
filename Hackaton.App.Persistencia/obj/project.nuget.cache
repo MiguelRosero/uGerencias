@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "34Woq6B5miA7pedo3G6P0TKxGfotZPxRnabdHd1sQmf9sONDG4p+QvmrY59+XeFGK9haBtql4N6Bg72Df4EBhQ==",
+  "dgSpecHash": "c/5MZJFfWikJgoRfNTj1U8we/4EOkE9gbG/AXhHCnHG7FL2dwE8gB1maiXR/rusSmx0e6itCwO4qA6CxVQbkPQ==",
   "success": true,
-  "projectFilePath": "D:\\uGErenciasUWU\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj",
+  "projectFilePath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
