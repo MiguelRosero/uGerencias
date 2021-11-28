@@ -1,0 +1,26 @@
+@page
+@model Hackaton.App.Frontend.Pages.FormuGerenciasModel
+@{
+var ugerencias = Model.uGerencias;
+}
+
+
+<h1>Formulario Novedades</h1>
+
+<div class="text-center">
+    <form method="POST">
+
+
+        <label for="fecha_novedad" class="form-label">Fecha de la novedad</label>
+        <input type="text" class="form-control" placeholder="Fecha de la novedad" asp-for="@uGerencias.fecha_novedad">
+        <span class="text-danger" asp-validation-for="uGerencias.fecha_novedad"></span>
+        <label for="dias_novedad" class="form-label">Dias novedad:</label>
+        <input type="text" class="form-control" placeholder="Dias novedad" asp-for="@uGerencias.dias_novedad">
+        <span class="text-danger" asp-validation-for="uGerencias.dias_novedad"></span>
+        <label for="texto_explicativo" class="form-label">Texto explicativo:</label>
+        <input type="text" class="form-control" placeholder="Texto explicativo" asp-for="@uGerencias.texto_explicativo">
+        <span class="text-danger" asp-validation-for="uGerencias.texto_explicativo"></span>
+        <hr>
+        <button type="submit" class="btn btn-success">Enviar</button>
+    </form>
+</div>

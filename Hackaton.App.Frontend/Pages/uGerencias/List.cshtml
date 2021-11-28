@@ -1,0 +1,35 @@
+@page
+@model Hackaton.App.Frontend.Pages.ListuGerenciasModel
+@{
+}
+
+<h1>Listado nov</h1>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</td>
+      <th scope="col">Fecha novedad</td>
+      <th scope="col">Dias novedad</td>
+      <th scope="col">Texto explicativo</td>
+      
+    </tr>
+  </thead>
+  @foreach (var ugerente in Model.uGerencias)
+  {
+    <tr>
+      <td>@ugerente.id</td>
+      <td>@ugerente.fecha_novedad</td>
+      <td>@ugerente.dias_novedad</td>
+      <td>@ugerente.texto_explicativo</td>
+      <td>
+        <a class="btn btn-info" asp-page="./Details" asp-route-migranteId="@ugerente.id"><i class="fas fa-adjust"></i>Ver Nove</a>
+        <a class="btn btn-info" asp-page="./Edit" asp-route-migranteId="@ugerente.id">Actualizar Nov</a>
+        <form method="POST">
+          <input type="number" class="form-control d-none" id="id" name="id" placeholder="id" asp-for="@ugerente.id">
+          <button type="submit" class="btn btn-danger" href="">inhabilitar</button>
+        </form>
+      </td>
+    </tr>
+  }
+</table>

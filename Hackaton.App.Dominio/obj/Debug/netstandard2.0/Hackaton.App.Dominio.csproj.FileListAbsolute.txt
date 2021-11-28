@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.deps.json
+C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.dll
+C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.pdb
+C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.dll
+C:\Users\Asus\Desktop\Hackton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.pdb
