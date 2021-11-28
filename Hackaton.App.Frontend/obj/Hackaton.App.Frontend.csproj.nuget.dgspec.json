@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Frontend\\Hackaton.App.Frontend.csproj": {}
+    "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Frontend\\Hackaton.App.Frontend.csproj": {}
   },
   "projects": {
-    "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj": {
+    "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj",
         "projectName": "Hackaton.App.Dominio",
-        "projectPath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -61,17 +61,17 @@
         }
       }
     },
-    "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Frontend\\Hackaton.App.Frontend.csproj": {
+    "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Frontend\\Hackaton.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Frontend\\Hackaton.App.Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Frontend\\Hackaton.App.Frontend.csproj",
         "projectName": "Hackaton.App.Frontend",
-        "projectPath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Frontend\\Hackaton.App.Frontend.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Frontend\\obj\\",
+        "projectPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Frontend\\Hackaton.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj": {
-                "projectPath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj"
+              "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj"
               }
             }
           }
@@ -118,17 +118,17 @@
         }
       }
     },
-    "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj": {
+    "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj",
         "projectName": "Hackaton.App.Persistencia",
-        "projectPath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Persistencia\\Hackaton.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -139,8 +139,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj": {
-                "projectPath": "D:\\MKAAAAA\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj"
+              "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Diego\\Desktop\\Miguel2\\uGerencias\\Hackaton.App.Dominio\\Hackaton.App.Dominio.csproj"
               }
             }
           }

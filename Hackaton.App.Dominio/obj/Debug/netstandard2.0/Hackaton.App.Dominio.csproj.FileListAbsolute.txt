@@ -34,3 +34,12 @@ D:\MKAAAAA\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App
 D:\MKAAAAA\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.csproj.CoreCompileInputs.cache
 D:\MKAAAAA\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.dll
 D:\MKAAAAA\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.pdb
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.deps.json
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.dll
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.pdb
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.dll
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.pdb

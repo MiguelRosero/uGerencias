@@ -46,3 +46,15 @@ D:\MKAAAAA\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackato
 D:\MKAAAAA\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.csproj.CopyComplete
 D:\MKAAAAA\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.dll
 D:\MKAAAAA\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.pdb
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\bin\Debug\netstandard2.1\Hackaton.App.Persistencia.deps.json
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\bin\Debug\netstandard2.1\Hackaton.App.Persistencia.dll
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\bin\Debug\netstandard2.1\Hackaton.App.Persistencia.pdb
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\bin\Debug\netstandard2.1\Hackaton.App.Dominio.dll
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\bin\Debug\netstandard2.1\Hackaton.App.Dominio.pdb
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.csproj.CopyComplete
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.dll
+C:\Users\Diego\Desktop\Miguel2\uGerencias\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.pdb

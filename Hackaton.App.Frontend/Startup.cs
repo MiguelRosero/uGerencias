@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Hackaton.App.Persistencia.AppRepositorios;
 using Microsoft.Extensions.Hosting;
 
 namespace Hackaton.App.Frontend
@@ -24,6 +25,8 @@ namespace Hackaton.App.Frontend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddSingleton<RepositoriouGerencias, RepositoriouGerencias>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -8,11 +8,12 @@ var ugerencias = Model.uGerente;
 <h1>Formulario Novedades</h1>
 
 <div class="text-center">
+
     <form method="POST">
 
 
         <label for="fecha_novedad" class="form-label">Fecha de la novedad</label>
-        <input type="text" class="form-control" placeholder="Fecha de la novedad" asp-for="@ugerencias.fecha_novedad">
+        <input type="date" class="form-control" placeholder="Fecha de la novedad" asp-for="@ugerencias.fecha_novedad">
         <span class="text-danger" asp-validation-for="@ugerencias.fecha_novedad"></span>
         <label for="dias_novedad" class="form-label">Dias novedad:</label>
         <input type="text" class="form-control" placeholder="Dias novedad" asp-for="@ugerencias.dias_novedad">
