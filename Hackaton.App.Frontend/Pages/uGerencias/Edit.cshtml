@@ -1,7 +1,7 @@
 @page
-@model Hackaton.App.Frontend.Pages.EditMigranteModel
+@model Hackaton.App.Frontend.Pages.EdituGerenciasModel
 @{
-    var migrante = Model.Migrante;
+    var ugerente = Model.uGerente;
 }
  
 <div class="text-center">
@@ -9,11 +9,11 @@
   <label for="id" class="form-label">id:</label>
   <input type="number" class="form-control" id="id" name="id" placeholder="id" asp-for="@ugerente.id">
   <label for="fecha_novedad" class="form-label">Fecha novedad :</label>
-  <input type="text" class="form-control" id="nombre" name="fecha_novedad" placeholder="Fecha novedad" asp-for="@ugerente.nombre">
+  <input type="text" class="form-control" id="nombre" name="fecha_novedad" placeholder="Fecha novedad" asp-for="@ugerente.fecha_novedad">
   <label for="dias_novedad" class="form-label">Dias novedad:</label>
-  <input type="text" class="form-control" id="dias_novedad" name="dias_novedad" placeholder="Dias novedad" asp-for="@ugerente.apellidos">
+  <input type="text" class="form-control" id="dias_novedad" name="dias_novedad" placeholder="Dias novedad" asp-for="@ugerente.dias_novedad">
   <label for="texto_explicativo" class="form-label">texto explicativo:</label>
-  <input type="string" class="form-control" id="texto_explicativo" name="texto_explicativo" placeholder="texto_explicativo" asp-for="@ugerente.tipo_documento">
+  <input type="string" class="form-control" id="texto_explicativo" name="texto_explicativo" placeholder="texto_explicativo" asp-for="@ugerente.texto_explicativo">
  
   
   

@@ -1,7 +1,7 @@
 @page
 @model Hackaton.App.Frontend.Pages.FormuGerenciasModel
 @{
-var ugerencias = Model.uGerencias;
+var ugerencias = Model.uGerente;
 }
 
 
@@ -13,13 +13,13 @@ var ugerencias = Model.uGerencias;
 
         <label for="fecha_novedad" class="form-label">Fecha de la novedad</label>
         <input type="text" class="form-control" placeholder="Fecha de la novedad" asp-for="@ugerencias.fecha_novedad">
-        <span class="text-danger" asp-validation-for="ugerencias.fecha_novedad"></span>
+        <span class="text-danger" asp-validation-for="@ugerencias.fecha_novedad"></span>
         <label for="dias_novedad" class="form-label">Dias novedad:</label>
         <input type="text" class="form-control" placeholder="Dias novedad" asp-for="@ugerencias.dias_novedad">
-        <span class="text-danger" asp-validation-for="ugerencias.dias_novedad"></span>
+        <span class="text-danger" asp-validation-for="@ugerencias.dias_novedad"></span>
         <label for="texto_explicativo" class="form-label">Texto explicativo:</label>
         <input type="text" class="form-control" placeholder="Texto explicativo" asp-for="@ugerencias.texto_explicativo">
-        <span class="text-danger" asp-validation-for="ugerencias.texto_explicativo"></span>
+        <span class="text-danger" asp-validation-for="@ugerencias.texto_explicativo"></span>
         <hr>
         <button type="submit" class="btn btn-success">Enviar</button>
     </form>

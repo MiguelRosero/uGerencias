@@ -5,56 +5,52 @@ using System;
  
 namespace Hackaton.App.Persistencia.AppRepositorios
 {
-    public class RepositorioEntidades
+    public class RepositoriouGerencias
     {
 
-        List<Entidades> entidades;
+        
         private readonly AppContext _appContext = new AppContext();
 
-        public IEnumerable<Entidades> GetAll()
+        public IEnumerable<uGerencias> GetAll()
         {
             
-            return _appContext.Entidades;// retorna la informacion que se encuentra en Entidades(base de datos)
+            return _appContext.uGerencias;// retorna la informacion que se encuentra en Entidades(base de datos)
         }
         
-        public Entidades Create(Entidades newEntidad)
+        public uGerencias Create(uGerencias newuGerente)
         {
-            var addEntidad = _appContext.Entidades.Add(newEntidad);
+            var adduGerente = _appContext.uGerencias.Add(newuGerente);
             _appContext.SaveChanges();
-            return addEntidad.Entity;
+            return adduGerente.Entity;
         }
         
-        public Entidades GetEntidadWithId(int id)
+        public uGerencias GetuGerenteWithId(int id)
         {           
-           return _appContext.Entidades.Find(id); 
+           return _appContext.uGerencias.Find(id); 
         }
 
-        public Entidades Update(Entidades newEntidad)
+        public uGerencias Update(uGerencias newuGerente)
         {
-            var entidad = _appContext.Entidades.Find(newEntidad.id);
-            if(entidad != null)
+            var ugerente = _appContext.uGerencias.Find(newuGerente.id);
+            if(ugerente != null)
             {
-                entidad.razon_social = newEntidad.razon_social;
-                entidad.nit = newEntidad.nit;
-                entidad.direccion = newEntidad.direccion;
-                entidad.ciudad = newEntidad.ciudad;
-                entidad.telefono = newEntidad.telefono;
-                entidad.webpage = newEntidad.webpage;
-                entidad.sector = newEntidad.sector;
-                entidad.servicio = newEntidad.servicio;
+                ugerente.fecha_novedad = newuGerente.fecha_novedad;
+                ugerente.dias_novedad = newuGerente.dias_novedad;
+                ugerente.texto_explicativo = newuGerente.texto_explicativo;
+                
                              
                 _appContext.SaveChanges(); //Guarda en base de Datos
             }
-        return entidad;
+        return ugerente;
         }
 
         public void Delete(int id)
         {
             
-        var entidad = _appContext.Entidades.Find(id);
-        if (entidad == null)
-            return;
-        _appContext.Entidades.Remove(entidad);
+        var ugerente = _appContext.uGerencias.Find(id);
+        if (ugerente == null)
+            return ;
+        _appContext.uGerencias.Remove(ugerente);
         _appContext.SaveChanges();
         }
 

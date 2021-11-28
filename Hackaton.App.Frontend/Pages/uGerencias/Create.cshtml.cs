@@ -17,7 +17,7 @@ namespace Hackaton.App.Frontend.Pages
         [BindProperty]
         public uGerencias uGerente { get; set; }
 
-        public FormuGerenteModel(RepositoriouGerencias repositoriouGerencias)
+        public FormuGerenciasModel(RepositoriouGerencias repositoriouGerencias)
         {
             this.repositoriouGerencias = repositoriouGerencias;
         }
